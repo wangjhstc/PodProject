@@ -1,0 +1,6 @@
+[submodule "Submodule/Pod"]
+	path = Submodule/Pod
+	url = https://github.com/wangjhstc/PodBusiness.git
+[submodule "Submodule/PodData"]
+	path = Submodule/PodData
+	url = https://github.com/wangjhstc/PodData.git
