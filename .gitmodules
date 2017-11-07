@@ -1,6 +1,6 @@
-[submodule "Submodule/PodBusiness"]
-	path = Submodule/PodBusiness
+[submodule "PodBusiness"]
+	path = PodBusiness
 	url = https://github.com/wangjhstc/PodBusiness.git
-[submodule "Submodule/PodData"]
-	path = Submodule/PodData
+[submodule "PodData"]
+	path = PodData
 	url = https://github.com/wangjhstc/PodData.git
